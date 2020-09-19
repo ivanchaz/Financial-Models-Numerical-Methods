@@ -6,3 +6,6 @@ Cython
 matplotlib
 statsmodels
 sympy
+arch
+scikit-learn
+cvxpy
